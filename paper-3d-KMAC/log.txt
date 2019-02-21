@@ -1,0 +1,4 @@
+1. can remove all the points falls in k1,k2
+2. still remains a bug
+	search function
+	search again and output again in the current settings;
